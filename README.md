@@ -1,2 +1,5 @@
 # hello-world
-1st Repository
+
+Hello Everyone!
+
+Im Joremar, Filipino, 5'4, Loves to Eat and Loves to Learn.
